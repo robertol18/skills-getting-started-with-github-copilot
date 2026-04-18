@@ -126,6 +126,7 @@ section h3 {
   width: 30px;
   height: 30px;
   flex: 0 0 30px;
+  padding: 0;
   border: none;
   border-radius: 999px;
   background: #fde8e8;
